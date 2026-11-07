@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h1>Yvette (Yan) Pan</h1>
   <h3>Building verified coding agents for quant research & development</h3>
 </div>
 
