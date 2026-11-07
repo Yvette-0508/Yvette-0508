@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Screenshot 2026-11-07 at 2.38.58 PM" width="100%" alt="starry sky" />
+  <img src="beautiful-shot-from-heart-shaped-whole-mountains-green-trees-distance-dolomite-italy.jpg" width="100%" alt="starry sky" />
 </div>
 
 <div align="center">
