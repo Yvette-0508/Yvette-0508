@@ -66,5 +66,5 @@ Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1200&h=120&fit=crop&q=80" width="100%" alt="starry footer" />
+  <img src="high-angle-view-town-piran-slovenia-body-mediterranean.jpg" width="50%" alt="starry footer" />
 </div>
