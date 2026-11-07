@@ -63,5 +63,5 @@ Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yvette-0508/Yvette-0508/main/high-angle-view-town-piran-slovenia-body-mediterranean.jpg" width="100%" alt="footer" />
+  <img src="https://raw.githubusercontent.com/Yvette-0508/Yvette-0508/main/high-angle-view-town-piran-slovenia-body-mediterranean.jpg" width="100%" height="180" alt="footer" />
 </div>
