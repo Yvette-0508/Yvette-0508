@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="beautiful-shot-from-heart-shaped-whole-mountains-green-trees-distance-dolomite-italy.jpg" width="80%" alt="starry sky" />
+  <img src="beautiful-shot-from-heart-shaped-whole-mountains-green-trees-distance-dolomite-italy.jpg" width="40%" alt="starry sky" />
 </div>
 
 <div align="center">
