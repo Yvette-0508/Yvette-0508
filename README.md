@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1200&h=300&fit=crop&q=80" width="100%" alt="starry sky" />
+  <img src="Screenshot 2026-11-07 at 2.38.58 PM" width="100%" alt="starry sky" />
 </div>
 
 <div align="center">
