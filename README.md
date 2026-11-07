@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a237e,100:0d47a1&height=140&section=header&text=Yvette%20(Yan)%20Pan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=e3f2fd" />
+  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1200&h=300&fit=crop&q=80" width="100%" alt="starry sky" />
 </div>
 
-<h1 align="center">Hi, I'm Yvette 👋</h1>
-<h3 align="center">Building verified coding agents for quant research & development</h3>
+<div align="center">
+  <h1>Yvette (Yan) Pan</h1>
+  <h3>Building verified coding agents for quant research & development</h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/zen-tradings/zen-coding"><img src="https://img.shields.io/badge/zen--coding-0d47a1?style=flat-square&logo=github" /></a>
@@ -54,16 +56,16 @@ Education: CMU MSIT · Queen Mary University of London & BUPT
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yvette-0508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=90caf9&icon_color=64b5f6&text_color=e3f2fd" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yvette-0508&theme=tokyonight&hide_border=true&background=0a0e27&stroke=1a237e&ring=64b5f6&fire=90caf9&currStreakLabel=e3f2fd" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yvette-0508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=90caf9&icon_color=64b5f6&text_color=e3f2fd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yvette-0508&theme=tokyonight&hide_border=true&background=0a0e27&stroke=1a237e&ring=64b5f6&fire=90caf9&currStreakLabel=e3f2fd" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yvette-0508&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=90caf9&line=64b5f6&point=e3f2fd" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yvette-0508&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=90caf9&line=64b5f6&point=e3f2fd" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a237e,100:0d47a1&height=100&section=footer" />
+  <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1200&h=120&fit=crop&q=80" width="100%" alt="starry footer" />
 </div>
