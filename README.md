@@ -28,7 +28,7 @@ I'm mainly working on two things:
 > Agent cost next to strategy return.
 
 Previously: FedML · Alibaba Cloud PAI · Tencent CV Lab  
-Education: CMU MSIT · Queen Mary University of London & BUPT
+Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 
 ---
 
