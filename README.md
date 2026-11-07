@@ -55,7 +55,6 @@ Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yvette-0508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=90caf9&icon_color=64b5f6&text_color=e3f2fd" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yvette-0508&theme=tokyonight&hide_border=true&background=0a0e27&stroke=1a237e&ring=64b5f6&fire=90caf9&currStreakLabel=e3f2fd" />
 </p>
 
