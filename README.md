@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="beautiful-shot-from-heart-shaped-whole-mountains-green-trees-distance-dolomite-italy.jpg" width="40%" alt="starry sky" />
+  <img src="https://raw.githubusercontent.com/Yvette-0508/Yvette-0508/main/beautiful-shot-from-heart-shaped-whole-mountains-green-trees-distance-dolomite-italy.jpg" width="100%" alt="header" />
 </div>
 
 <div align="center">
+  <h1>Yvette (Yan) Pan</h1>
   <h3>Building verified coding agents for quant research & development</h3>
 </div>
 
@@ -27,7 +28,7 @@ I'm mainly working on two things:
 > Research built to be verified.  
 > Agent cost next to strategy return.
 
-Previously: FedML(TensorOpera AI) · Alibaba Cloud PAI · Tencent CV Lab  
+Previously: FedML (TensorOpera AI) · Alibaba Cloud PAI · Tencent CV Lab  
 Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 
 ---
@@ -66,5 +67,5 @@ Education: CMU MSIT · Queen Mary University of London & BUPT (Dual Degree)
 ---
 
 <div align="center">
-  <img src="high-angle-view-town-piran-slovenia-body-mediterranean.jpg" width="50%" alt="starry footer" />
+  <img src="https://raw.githubusercontent.com/Yvette-0508/Yvette-0508/main/high-angle-view-town-piran-slovenia-body-mediterranean.jpg" width="100%" alt="footer" />
 </div>
